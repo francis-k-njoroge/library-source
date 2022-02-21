@@ -1,0 +1,80 @@
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\bin\Debug\our lady.exe.config
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\bin\Debug\our lady.exe
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\bin\Debug\our lady.pdb
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\bin\Debug\our lady.xml
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\obj\Debug\our_lady.dashboard.resources
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\obj\Debug\our_lady.Form1.resources
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\obj\Debug\our_lady.Resources.resources
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\obj\Debug\our lady.vbproj.GenerateResource.Cache
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\obj\Debug\our lady.exe
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\obj\Debug\our lady.xml
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\obj\Debug\our lady.pdb
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\obj\Debug\our_lady.books.resources
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\obj\Debug\our_lady.borrower.resources
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\bin\Debug\MySql.Data.DLL
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\obj\Debug\our lady.vbprojResolveAssemblyReference.cache
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\obj\Debug\our_lady.category.resources
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\obj\Debug\our_lady.usermgt.resources
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\obj\Debug\our_lady.borrow.resources
+C:\Users\amoh\Desktop\access project\study 8\our lady\our lady\obj\Debug\our_lady.frmreturn.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\bin\Debug\our lady.exe.config
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\obj\Debug\our lady.exe
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\obj\Debug\our lady.xml
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\obj\Debug\our lady.pdb
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\obj\Debug\our lady.vbprojResolveAssemblyReference.cache
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\obj\Debug\our_lady.books.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\obj\Debug\our_lady.borrow.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\obj\Debug\our_lady.borrower.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\obj\Debug\our_lady.category.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\obj\Debug\our_lady.dashboard.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\obj\Debug\our_lady.Form1.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\obj\Debug\our_lady.frmreturn.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\obj\Debug\our_lady.Resources.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\obj\Debug\our_lady.usermgt.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\obj\Debug\our lady.vbproj.GenerateResource.Cache
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\bin\Debug\our lady.exe
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\bin\Debug\our lady.pdb
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\bin\Debug\our lady.xml
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\bin\Debug\MySql.Data.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\bin\Debug\Google.Protobuf.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\bin\Debug\Zstandard.Net.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\bin\Debug\System.Buffers.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\bin\Debug\MySql.Data.xml
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\bin\Debug\our lady.exe.config
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\obj\Debug\our lady.exe
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\obj\Debug\our lady.xml
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\obj\Debug\our lady.pdb
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\bin\Debug\our lady.exe
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\bin\Debug\our lady.pdb
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\bin\Debug\our lady.xml
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\bin\Debug\MySql.Data.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\bin\Debug\Google.Protobuf.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\bin\Debug\Zstandard.Net.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\bin\Debug\System.Buffers.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\bin\Debug\MySql.Data.xml
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\obj\Debug\our lady.vbprojResolveAssemblyReference.cache
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\obj\Debug\our_lady.books.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\obj\Debug\our_lady.borrow.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\obj\Debug\our_lady.borrower.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\obj\Debug\our_lady.category.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\obj\Debug\our_lady.dashboard.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\obj\Debug\our_lady.Form1.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\obj\Debug\our_lady.frmreturn.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\obj\Debug\our_lady.Resources.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\obj\Debug\our_lady.usermgt.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\Downloads\our lady\our lady\obj\Debug\our lady.vbproj.GenerateResource.Cache
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\obj\Debug\our_lady.listofbook.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\obj\Debug\our_lady.overdue.resources
+C:\Users\amoh\Desktop\BBIT CLASSS\SCHOOL\YEAR 2\SEM 2\DATABASE PROGRAMING AND PRACTIUM\our lady\our lady\obj\Debug\our_lady.frmborrower.resources
